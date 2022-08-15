@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Practica2sp_DAM2</string>
+    <string name="titleApp">Reproductor</string>
+    <string name="btnAudio">Play Audio</string>
+    <string name="btnVideo">Play Video</string>
+    <string name="btnHelp">Más...</string>
+    <string name="btnPause">Pausa</string>
+    <string name="btnStop">Detener</string>
+    <string name="btnPlay">Reproducir</string>
+    <string name="btnContinue">Reanudar</string>
+    <string name="btnPauseA">Pause Audio</string>
+    <string name="btnStopA">Stop Audio</string>
+
+</resources>
